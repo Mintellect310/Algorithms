@@ -16,9 +16,14 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 - [Google's Engineering Practices documentation](https://github.com/google/eng-practices)
 - [A list of Free Software network services and web applications which can be hosted locally](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
+- [🎓 Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [📚 List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
+- [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 
 ### Bash:
-- [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
+- [📖 A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+- [Utility bash scripts to do automatable tasks with a single command](https://github.com/aviaryan/utility-bash-scripts)
 
 ### Git:
 - [Git Commands](https://gist.github.com/hofmannsven/6814451)
@@ -27,9 +32,13 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Cloud:
 - [📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+- [The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words)
 
 ### GitBook:
 - [GitBook - A command-line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
+
+### Complexities:
+- [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ### VS-Code:
 - [Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
@@ -43,6 +52,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [A book about JavaScript, programming, and the wonders of the digital](https://eloquentjavascript.net/)
   - [🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
   - [LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport](https://github.com/verlok/lazyload)
+  - [A book series on JavaScript. @YDKJS on twitter](https://github.com/getify/You-Dont-Know-JS)
+  - [A long list of (advanced) JavaScript questions, and their explanations ✨](https://github.com/lydiahallie/javascript-questions)
   #### Libraries:
   - [jQuery — New Wave JavaScript](https://github.com/jquery/jquery)
   - [React.js](https://github.com/reactjs)
@@ -59,9 +70,11 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Vue.js](https://github.com/vuejs)
   - [Ext JS](https://github.com/sencha)
   - [Backbone.js](https://github.com/jashkenas/backbone/)
+  - [Next.js](https://github.com/vercel/next.js)
   - [Ember.js - A JavaScript framework for creating ambitious web applications](https://github.com/emberjs/ember.js)
   - [Fastify - Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
   - [Alpine - A rugged, minimal framework for composing JavaScript behavior in your markup](https://github.com/alpinejs/alpine)
+  - [📊 Cube.js - Open Source Analytics Framework](https://github.com/cube-js/cube.js)
   #### General-Purpose Task Runners:
   - [Webpack](https://github.com/webpack/webpack)
   - [Gulp.js](https://github.com/gulpjs/gulp)
@@ -70,7 +83,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Browserify](https://github.com/browserify/browserify)
   - [RequireJS](https://github.com/requirejs/r.js)
   #### Linting:
-  - [ESLint](github.com/eslint/eslint)
+  - [ESLint](https://github.com/eslint/eslint)
   - [JSHint](https://github.com/jshint/jshint)
   - [JSLint](https://github.com/reid/node-jslint)
   #### Test Suits:
@@ -80,6 +93,14 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
+- [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
+- [Tutorials on various Python modules and its applications](https://www.askpython.com/)
+- [Python Tutorials in Detail](https://www.scaler.com/topics/python/)
+  #### Packages:
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Numpy](https://numpy.org/doc/)
+  - [Matplotlib](https://matplotlib.org/stable/index.html)
+  - [scikit-learn](https://scikit-learn.org/stable/)
 
 #### Golang:
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -87,6 +108,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Must have Chrome-Extensions:
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/related)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
@@ -95,6 +117,11 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+- [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+- [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 
 ### Machine-Learning/Data Science/AI/DL:
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)
@@ -115,6 +142,10 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [An end-to-end PyTorch framework for image and video classification](https://github.com/facebookresearch/ClassyVision)
 - [The simplest way for researchers and developers to build world-class ML solutions](https://github.com/google/mediapipe)
 - [Pose Animator takes a 2D vector illustration and animates its containing curves in real-time](https://github.com/yemount/pose-animator)
+- [A system for detecting human body, facial and foot keypoints from RGB images](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [A YouTube channel that covers recent and interest research works in the ML and DL area](https://www.youtube.com/user/keeroyz)
+- [Tensorflow 2.0 cheat sheet](http://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf)
+- [A list of ML papers, along with their respective code links](https://paperswithcode.com/)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
@@ -133,6 +164,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A description of the conceptual model of React without implementation burden](https://github.com/reactjs/react-basic)
 - [Recoil - An experimental state management library for React apps](https://github.com/facebookexperimental/Recoil)
 - [The recommended Code Splitting library for React ✂️✨](https://github.com/gregberge/loadable-components)
+- [A draggable and resizable grid layout with responsive breakpoints, for React](https://github.com/STRML/react-grid-layout)
+- [A collection of beautiful and useful React hooks to speed-up your components and hooks development](https://github.com/beautifulinteractions/beautiful-react-hooks)
 
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
@@ -160,9 +193,17 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
 - [Pramp - Practice live interviews with peers](https://www.pramp.com/#/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Interview Company Guides](https://www.interviewbit.com/technical-interview-questions/#company-guides)
 
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
+
+## Newsletter
+- [Nibbles](https://thenibble.substack.com/)
+- [Bytes](https://ui.dev/)
+
+## GitHub Readme Generator:
+- [🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme](https://github.com/rishavanand/github-profilinator)
 
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
